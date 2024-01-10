@@ -3,7 +3,7 @@
     <title>FuFu</title>
     <link href="https://hubfufu.github.io/pages/feed.xml" rel="self" />
     <link href="https://hubfufu.github.io/pages" />
-    <updated>2024-01-07T14:48:01+01:00</updated>
+    <updated>2024-01-10T12:05:58+01:00</updated>
     <author>
         <name>FuFu</name>
     </author>
@@ -61,15 +61,18 @@
         </author>
         <link href="https://hubfufu.github.io/pages/about-me/"/>
         <id>https://hubfufu.github.io/pages/about-me/</id>
+        <media:content url="https://hubfufu.github.io/pages/media/posts/19/lapins-cretins-rb-2.png" medium="image" />
 
-        <updated>2024-01-07T14:48:01+01:00</updated>
+        <updated>2024-01-10T12:05:58+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://hubfufu.github.io/pages/media/posts/19/lapins-cretins-rb-2.png" alt="" />
                     Clique sur le petit lapin pour voir le gros lapin
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://hubfufu.github.io/pages/media/posts/19/lapins-cretins-rb-2.png" class="type:primaryImage" alt="" /></p>
                 <p class="align-center">Clique sur le petit lapin pour voir le gros lapin</p>
 <table class="align-center" style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>

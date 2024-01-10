@@ -43,13 +43,14 @@
             "title": "About me",
             "summary": "Clique sur le petit lapin pour voir le gros lapin",
             "content_html": "<p class=\"align-center\">Clique sur le petit lapin pour voir le gros lapin</p>\n<table class=\"align-center\" style=\"border-collapse: collapse; width: 100%;\" border=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 33.2843%;\"> </td>\n<td class=\"align-center\" style=\"width: 33.2843%;\"><a href=\"https://hubfufu.github.io/pages/tags/about-me/\"><figure class=\"post__image\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://hubfufu.github.io/pages/media/posts/19/lapins-cretins-rb.png\" alt=\"\" width=\"303\" height=\"227\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://hubfufu.github.io/pages/media/posts/19/responsive/lapins-cretins-rb-xs.png 300w ,https://hubfufu.github.io/pages/media/posts/19/responsive/lapins-cretins-rb-sm.png 480w ,https://hubfufu.github.io/pages/media/posts/19/responsive/lapins-cretins-rb-md.png 768w ,https://hubfufu.github.io/pages/media/posts/19/responsive/lapins-cretins-rb-lg.png 1024w\"></figure></a></td>\n<td style=\"width: 33.2889%;\"> </td>\n</tr>\n</tbody>\n</table>",
+            "image": "https://hubfufu.github.io/pages/media/posts/19/lapins-cretins-rb-2.png",
             "author": {
                 "name": "FuFu"
             },
             "tags": [
             ],
             "date_published": "2023-11-09T19:52:52+01:00",
-            "date_modified": "2024-01-07T14:48:01+01:00"
+            "date_modified": "2024-01-10T12:05:58+01:00"
         },
         {
             "id": "https://hubfufu.github.io/pages/portaits-4/",
