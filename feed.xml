@@ -3,7 +3,7 @@
     <title>FuFu</title>
     <link href="https://hubfufu.github.io/pages/feed.xml" rel="self" />
     <link href="https://hubfufu.github.io/pages" />
-    <updated>2024-01-28T17:07:44+01:00</updated>
+    <updated>2024-02-03T15:21:46+01:00</updated>
     <author>
         <name>FuFu</name>
     </author>
@@ -410,18 +410,18 @@
         </author>
         <link href="https://hubfufu.github.io/pages/voyages/"/>
         <id>https://hubfufu.github.io/pages/voyages/</id>
-        <media:content url="https://hubfufu.github.io/pages/media/posts/8/voyager-monde.jpg" medium="image" />
+        <media:content url="https://hubfufu.github.io/pages/media/posts/8/voyages.jpg" medium="image" />
 
-        <updated>2023-11-18T19:20:31+01:00</updated>
+        <updated>2024-02-03T15:21:46+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://hubfufu.github.io/pages/media/posts/8/voyager-monde.jpg" alt="" />
+                        <img src="https://hubfufu.github.io/pages/media/posts/8/voyages.jpg" alt="" />
                     Ma sélection de photos glanées ici ou là lors de mes pérégrinations&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://hubfufu.github.io/pages/media/posts/8/voyager-monde.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://hubfufu.github.io/pages/media/posts/8/voyages.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center">Ma sélection de photos glanées ici ou là lors de mes pérégrinations autour du monde.</p>
             ]]>
         </content>
