@@ -54,7 +54,7 @@
             "url": "https://hubfufu.github.io/pages/about-me/",
             "title": "About me",
             "summary": "Je s'appelle FuFu 🐰 Je suis une oeuvre de street art&hellip;",
-            "content_html": "<p class=\"align-center\">Je s'appelle FuFu 🐰</p>\n<p class=\"align-center\">Je suis une oeuvre de street art et vous pouvez me trouver dans un coin de rue (au sens propre) d'une célèbre ville européenne...</p>\n<p> </p>\n<p> </p>",
+            "content_html": "<p class=\"align-center\">Je s'appelle FuFu 🐰</p>\n<p class=\"align-center\">Je suis une oeuvre de street art et vous pouvez me trouver dans un coin de rue (au sens propre) d'une célèbre ville européenne...</p>\n<p> </p>\n<div class=\"footer__bottom\">\n<div class=\"footer__copyright align-center\">© 2024 Powered by <a href=\"https://getpublii.com/\">Publii</a> Static CMS and hosted in the <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">EU 🇪🇺</span></div>\n</div>\n<p> </p>\n<p> </p>",
             "image": "https://hubfufu.github.io/pages/media/posts/19/lapin3.jpg",
             "author": {
                 "name": "FuFu"
@@ -62,7 +62,7 @@
             "tags": [
             ],
             "date_published": "2023-11-09T19:52:52+01:00",
-            "date_modified": "2024-03-14T12:09:36+01:00"
+            "date_modified": "2024-03-14T15:01:39+01:00"
         },
         {
             "id": "https://hubfufu.github.io/pages/portaits-4/",
@@ -137,14 +137,14 @@
             "title": "Tickets",
             "summary": "Ok, oldies tickets but goldies for me...",
             "content_html": "<p class=\"align-center\">Ok, oldies tickets but goldies for me...</p>",
-            "image": "https://hubfufu.github.io/pages/media/posts/7/P1000086-2.JPG",
+            "image": "https://hubfufu.github.io/pages/media/posts/7/P1000111-2.JPG",
             "author": {
                 "name": "FuFu"
             },
             "tags": [
             ],
             "date_published": "2023-11-04T12:28:17+01:00",
-            "date_modified": "2024-03-14T12:11:25+01:00"
+            "date_modified": "2024-03-14T15:19:46+01:00"
         }
     ]
 }

@@ -3,7 +3,7 @@
     <title>FuFu</title>
     <link href="https://hubfufu.github.io/pages/feed.xml" rel="self" />
     <link href="https://hubfufu.github.io/pages" />
-    <updated>2024-03-14T12:11:25+01:00</updated>
+    <updated>2024-03-14T15:19:46+01:00</updated>
     <author>
         <name>FuFu</name>
     </author>
@@ -136,6 +136,10 @@
                     <p><img src="https://hubfufu.github.io/pages/media/posts/19/lapin3.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center">Je s'appelle FuFu 🐰</p>
 <p class="align-center">Je suis une oeuvre de street art et vous pouvez me trouver dans un coin de rue (au sens propre) d'une célèbre ville européenne...</p>
+<p> </p>
+<div class="footer__bottom">
+<div class="footer__copyright align-center">© 2024 Powered by <a href="https://getpublii.com/">Publii</a> Static CMS and hosted in the <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">EU 🇪🇺</span></div>
+</div>
 <p> </p>
 <p> </p>
             ]]>
@@ -394,18 +398,18 @@
         </author>
         <link href="https://hubfufu.github.io/pages/tickets/"/>
         <id>https://hubfufu.github.io/pages/tickets/</id>
-        <media:content url="https://hubfufu.github.io/pages/media/posts/7/P1000086-2.JPG" medium="image" />
+        <media:content url="https://hubfufu.github.io/pages/media/posts/7/P1000111-2.JPG" medium="image" />
 
         <updated>2023-11-04T12:28:17+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://hubfufu.github.io/pages/media/posts/7/P1000086-2.JPG" alt="" />
+                        <img src="https://hubfufu.github.io/pages/media/posts/7/P1000111-2.JPG" alt="" />
                     Ok, oldies tickets but goldies for me...
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://hubfufu.github.io/pages/media/posts/7/P1000086-2.JPG" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://hubfufu.github.io/pages/media/posts/7/P1000111-2.JPG" class="type:primaryImage" alt="" /></p>
                 <p class="align-center">Ok, oldies tickets but goldies for me...</p>
             ]]>
         </content>
