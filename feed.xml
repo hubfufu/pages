@@ -3,7 +3,7 @@
     <title>FuFu</title>
     <link href="https://hubfufu.github.io/pages/feed.xml" rel="self" />
     <link href="https://hubfufu.github.io/pages" />
-    <updated>2024-04-03T15:14:09+02:00</updated>
+    <updated>2024-04-03T15:19:28+02:00</updated>
     <author>
         <name>FuFu</name>
     </author>
@@ -387,12 +387,8 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://hubfufu.github.io/pages/media/posts/8/voyages.jpg" class="type:primaryImage" alt="" /></p>
-                <p class="align-right">Ma sélection de photos glanées ici ou là lors de mes pérégrinations autour du monde.</p>
-<p class="align-center">tutu</p>
-<p class="align-center"> </p>
+                <p class="align-center">Ma sélection de photos glanées ici ou là lors de mes pérégrinations autour du monde.</p>
 <div class="post_iframe align-center"><iframe loading="lazy" style="width: 600px; height: 600px;" src="https://clem.travelmap.net" data-responsive="false" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-<div class="align-center">toto</div>
-<p class="align-center"> </p>
             ]]>
         </content>
     </entry>
