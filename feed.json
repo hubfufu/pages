@@ -121,7 +121,7 @@
             "url": "https://hubfufu.github.io/pages/voyages/",
             "title": "Voyages",
             "summary": "Ma sélection de photos glanées ici ou là lors de mes&hellip;",
-            "content_html": "<p class=\"align-center\">Ma sélection de photos glanées ici ou là lors de mes pérégrinations autour du monde.</p>\n<p class=\"align-center\"> </p>\n<div class=\"post_iframe align-center\"><iframe loading=\"lazy\" width=\"100%\" height=\"600\" style=\"width: 213px; height: 578px;\" src=\"https://clem.travelmap.net\" data-responsive=\"false\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p class=\"align-center\"> </p>",
+            "content_html": "<p class=\"align-right\">Ma sélection de photos glanées ici ou là lors de mes pérégrinations autour du monde.</p>\n<p class=\"align-center\">tutu</p>\n<p class=\"align-center\"> </p>\n<div class=\"post_iframe align-center\"><iframe loading=\"lazy\" style=\"width: 600px; height: 600px;\" src=\"https://clem.travelmap.net\" data-responsive=\"false\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<div class=\"align-center\">toto</div>\n<p class=\"align-center\"> </p>",
             "image": "https://hubfufu.github.io/pages/media/posts/8/voyages.jpg",
             "author": {
                 "name": "FuFu"
@@ -129,7 +129,7 @@
             "tags": [
             ],
             "date_published": "2023-11-04T12:33:17+01:00",
-            "date_modified": "2024-04-03T14:54:41+02:00"
+            "date_modified": "2024-04-03T15:10:23+02:00"
         },
         {
             "id": "https://hubfufu.github.io/pages/tickets/",
