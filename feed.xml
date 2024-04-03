@@ -3,7 +3,7 @@
     <title>FuFu</title>
     <link href="https://hubfufu.github.io/pages/feed.xml" rel="self" />
     <link href="https://hubfufu.github.io/pages" />
-    <updated>2024-03-14T15:19:46+01:00</updated>
+    <updated>2024-04-03T12:08:15+02:00</updated>
     <author>
         <name>FuFu</name>
     </author>
@@ -388,6 +388,9 @@
             <![CDATA[
                     <p><img src="https://hubfufu.github.io/pages/media/posts/8/voyages.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center">Ma sélection de photos glanées ici ou là lors de mes pérégrinations autour du monde.</p>
+<p> </p>
+<p class="align-center"> </p>
+<div class="post__iframe"><iframe loading="lazy" height="550" src="https://clem.travelmap.net" with="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -404,13 +407,15 @@
             <summary>
                 <![CDATA[
                         <img src="https://hubfufu.github.io/pages/media/posts/7/P1000111-2.JPG" alt="" />
-                    Ok, oldies tickets but goldies for me...
+                    Ok, oldies tickets but goldies for me... Il fut un temps&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://hubfufu.github.io/pages/media/posts/7/P1000111-2.JPG" class="type:primaryImage" alt="" /></p>
                 <p class="align-center">Ok, oldies tickets but goldies for me...</p>
+<p class="align-center">Il fut un temps (avant internet, bien avant l'arrivée du smartphone, à l'époque du 33 tours et des billets en francs) ou l'on pouvait aller voir les artistes en chair et en os sur scène pour un ticket d'entrée à un prix raisonnable.</p>
+<p class="align-center">J'ai fait partie de ces heureux bipèdes et vous trouverez ici un petit florilège des tickets de concerts auquels j'ai pu assister (enfin ceux que j'ai conservés).</p>
             ]]>
         </content>
     </entry>
