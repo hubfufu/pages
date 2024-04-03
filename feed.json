@@ -121,7 +121,7 @@
             "url": "https://hubfufu.github.io/pages/voyages/",
             "title": "Voyages",
             "summary": "Ma sélection de photos glanées ici ou là lors de mes&hellip;",
-            "content_html": "<p class=\"align-center\">Ma sélection de photos glanées ici ou là lors de mes pérégrinations autour du monde.</p>\n<p> </p>\n<p class=\"align-center\"> </p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" height=\"550\" src=\"https://clem.travelmap.net\" with=\"100%\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "content_html": "<p class=\"align-center\">Ma sélection de photos glanées ici ou là lors de mes pérégrinations autour du monde.</p>\n<p class=\"align-center\">toto</p>\n<div class=\"post__iframe\"><div class=\"post__iframe\"><iframe loading=\"lazy\" height=\"550\" src=\"https://clem.travelmap.net\" with=\"100%\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></div></div>\n<p class=\"align-center\">tutu</p>",
             "image": "https://hubfufu.github.io/pages/media/posts/8/voyages.jpg",
             "author": {
                 "name": "FuFu"
@@ -129,7 +129,7 @@
             "tags": [
             ],
             "date_published": "2023-11-04T12:33:17+01:00",
-            "date_modified": "2024-04-03T12:08:15+02:00"
+            "date_modified": "2024-04-03T12:32:43+02:00"
         },
         {
             "id": "https://hubfufu.github.io/pages/tickets/",
