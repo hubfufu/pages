@@ -3,7 +3,7 @@
     <title>FuFu</title>
     <link href="https://hubfufu.github.io/pages/feed.xml" rel="self" />
     <link href="https://hubfufu.github.io/pages" />
-    <updated>2024-04-03T15:58:48+02:00</updated>
+    <updated>2024-04-03T18:24:04+02:00</updated>
     <author>
         <name>FuFu</name>
     </author>
@@ -305,10 +305,17 @@
         <id>https://hubfufu.github.io/pages/portaits/</id>
 
         <updated>2023-11-04T12:37:46+01:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                    <figure class="post__image post__image--center"><img loading="lazy"  src="https://hubfufu.github.io/pages/media/posts/9/periple-vietnam.jpg" alt="" width="706" height="640" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://hubfufu.github.io/pages/media/posts/9/responsive/periple-vietnam-xs.jpg 300w ,https://hubfufu.github.io/pages/media/posts/9/responsive/periple-vietnam-sm.jpg 480w ,https://hubfufu.github.io/pages/media/posts/9/responsive/periple-vietnam-md.jpg 768w ,https://hubfufu.github.io/pages/media/posts/9/responsive/periple-vietnam-lg.jpg 1024w"></figure>
+
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Ajouter des images" data-columns="5">
+                <figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://hubfufu.github.io/pages/media/posts/9/periple-vietnam.jpg" alt="" width="706" height="640" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://hubfufu.github.io/pages/media/posts/9/responsive/periple-vietnam-xs.jpg 300w ,https://hubfufu.github.io/pages/media/posts/9/responsive/periple-vietnam-sm.jpg 480w ,https://hubfufu.github.io/pages/media/posts/9/responsive/periple-vietnam-md.jpg 768w ,https://hubfufu.github.io/pages/media/posts/9/responsive/periple-vietnam-lg.jpg 1024w"></figure>
+
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Ajouter des images" data-columns="5">
 <figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/9/gallery/IMG_0150-2.jpg" data-size="2928x2928"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/9/gallery/IMG_0150-2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
 <figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/9/gallery/IMG_0163-2.jpg" data-size="3293x4391"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/9/gallery/IMG_0163-2-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
 <figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/9/gallery/IMG_0188-2.jpg" data-size="2551x2551"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/9/gallery/IMG_0188-2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
