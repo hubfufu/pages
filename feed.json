@@ -129,14 +129,14 @@
             "title": "Voyages",
             "summary": "Ma sélection de photos glanées ici ou là lors de mes&hellip;",
             "content_html": "<p class=\"align-center\">Ma sélection de photos glanées ici ou là lors de mes pérégrinations autour du monde.</p>",
-            "image": "https://hubfufu.github.io/pages/media/posts/8/voyages.jpg",
+            "image": "https://hubfufu.github.io/pages/media/posts/8/voyages-640-480.jpg",
             "author": {
                 "name": "FuFu"
             },
             "tags": [
             ],
             "date_published": "2023-11-04T12:33:17+01:00",
-            "date_modified": "2024-04-03T19:47:28+02:00"
+            "date_modified": "2024-04-13T11:21:36+02:00"
         },
         {
             "id": "https://hubfufu.github.io/pages/tickets/",
@@ -144,14 +144,14 @@
             "title": "Tickets",
             "summary": "Ok, oldies tickets but goldies for me... Il fut un temps&hellip;",
             "content_html": "<p class=\"align-center\">Ok, oldies tickets but goldies for me...</p>\n<p class=\"align-center\">Il fut un temps (avant internet, bien avant l'arrivée du smartphone, à l'époque du 33 tours et des billets en francs) ou l'on pouvait aller voir les artistes en chair et en os sur scène pour un ticket d'entrée à un prix tout à fait raisonnable.</p>\n<p class=\"align-center\">J'ai fait partie de ces heureux bipèdes et vous trouverez ici un petit florilège des tickets de concerts auquels j'ai pu assister (enfin ceux que j'ai conservés).</p>",
-            "image": "https://hubfufu.github.io/pages/media/posts/7/P1000111-2.JPG",
+            "image": "https://hubfufu.github.io/pages/media/posts/7/Zappa-80-640-480.jpg",
             "author": {
                 "name": "FuFu"
             },
             "tags": [
             ],
             "date_published": "2023-11-04T12:28:17+01:00",
-            "date_modified": "2024-04-03T15:58:31+02:00"
+            "date_modified": "2024-04-13T11:22:07+02:00"
         }
     ]
 }
