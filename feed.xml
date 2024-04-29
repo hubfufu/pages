@@ -3,7 +3,7 @@
     <title>FuFu</title>
     <link href="https://hubfufu.github.io/pages/feed.xml" rel="self" />
     <link href="https://hubfufu.github.io/pages" />
-    <updated>2024-04-23T11:43:08+02:00</updated>
+    <updated>2024-04-29T10:47:44+02:00</updated>
     <author>
         <name>FuFu</name>
     </author>
@@ -479,13 +479,13 @@
             <summary>
                 <![CDATA[
                         <img src="https://hubfufu.github.io/pages/media/posts/8/voyages-640-480.jpg" alt="" />
-                    Ma sélection de photos glanées ici ou là lors de mes&hellip;
+                    Une sélection tout à fait subjective de mes photos glanées ici&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://hubfufu.github.io/pages/media/posts/8/voyages-640-480.jpg" class="type:primaryImage" alt="" /></p>
-                <p class="align-center">Ma sélection de photos glanées ici ou là lors de mes pérégrinations autour du monde.</p>
+                <p class="align-center">Une sélection tout à fait subjective de mes photos glanées ici ou là lors de mes pérégrinations autour du monde.</p>
             ]]>
         </content>
     </entry>

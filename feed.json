@@ -141,8 +141,8 @@
             "id": "https://hubfufu.github.io/pages/voyages/",
             "url": "https://hubfufu.github.io/pages/voyages/",
             "title": "Voyages",
-            "summary": "Ma sélection de photos glanées ici ou là lors de mes&hellip;",
-            "content_html": "<p class=\"align-center\">Ma sélection de photos glanées ici ou là lors de mes pérégrinations autour du monde.</p>",
+            "summary": "Une sélection tout à fait subjective de mes photos glanées ici&hellip;",
+            "content_html": "<p class=\"align-center\">Une sélection tout à fait subjective de mes photos glanées ici ou là lors de mes pérégrinations autour du monde.</p>",
             "image": "https://hubfufu.github.io/pages/media/posts/8/voyages-640-480.jpg",
             "author": {
                 "name": "FuFu"
@@ -150,7 +150,7 @@
             "tags": [
             ],
             "date_published": "2023-11-04T12:33:17+01:00",
-            "date_modified": "2024-04-13T11:21:36+02:00"
+            "date_modified": "2024-04-29T10:47:44+02:00"
         }
     ]
 }
