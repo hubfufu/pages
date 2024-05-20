@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://hubfufu.github.io/pages/portaits-9/",
+            "url": "https://hubfufu.github.io/pages/portaits-9/",
+            "title": "Art urbain",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Ajouter des images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0043.jpg\" data-size=\"1516x2274\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0043-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1152\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0078.jpg\" data-size=\"1545x2274\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0078-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1130\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0083.jpg\" data-size=\"5184x2916\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0083-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0098.jpg\" data-size=\"2274x1504\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0098-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"508\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0102.jpg\" data-size=\"2274x1516\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0102-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0107.jpg\" data-size=\"1516x2274\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0107-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1152\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0108.jpg\" data-size=\"1666x2274\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0108-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1048\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0115.jpg\" data-size=\"2274x1516\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0115-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0119.jpg\" data-size=\"2274x1279\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0119-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0123.jpg\" data-size=\"2274x1489\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0123-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"503\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0131.jpg\" data-size=\"2274x1516\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0131-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0137.jpg\" data-size=\"2274x1508\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0137-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"509\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "FuFu"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-05-20T11:31:57+02:00",
+            "date_modified": "2024-05-20T11:49:28+02:00"
+        },
+        {
             "id": "https://hubfufu.github.io/pages/portaits-8/",
             "url": "https://hubfufu.github.io/pages/portaits-8/",
             "title": "Myanmar",
@@ -71,7 +84,7 @@
             "url": "https://hubfufu.github.io/pages/about-me/",
             "title": "A propos",
             "summary": "Je s'appelle FuFu 🐰 Je suis une oeuvre de street art&hellip;",
-            "content_html": "<p class=\"align-center\">Je s'appelle FuFu 🐰</p>\n<p class=\"align-center\">Je suis une oeuvre de street art et vous pouvez me trouver dans un coin de rue (au sens propre) d'une célèbre ville européenne...</p>\n<p> </p>\n<div class=\"footer__bottom\">\n<div class=\"footer__copyright align-center\">© 2024 Powered by <a href=\"https://getpublii.com/\">Publii</a> Static CMS and hosted in the <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">EU 🇪🇺</span></div>\n</div>\n<p> </p>\n<p> </p>",
+            "content_html": "<p class=\"align-center\">Je s'appelle FuFu 🐰</p>\n<p class=\"align-center\">Je suis une oeuvre de street art créée par Bordello et vous pouvez me trouver dans un coin de rue (au sens propre) d'une célèbre ville européenne...</p>\n<p> </p>\n<div class=\"footer__bottom\">\n<div class=\"footer__copyright align-center\">© 2024 Powered by <a href=\"https://getpublii.com/\">Publii</a> Static CMS and hosted in the <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">EU 🇪🇺</span></div>\n</div>\n<p> </p>\n<p> </p>",
             "image": "https://hubfufu.github.io/pages/media/posts/19/lapin3.jpg",
             "author": {
                 "name": "FuFu"
@@ -79,7 +92,7 @@
             "tags": [
             ],
             "date_published": "2023-11-09T19:52:52+01:00",
-            "date_modified": "2024-05-19T11:52:32+02:00"
+            "date_modified": "2024-05-20T11:37:04+02:00"
         },
         {
             "id": "https://hubfufu.github.io/pages/portaits-4/",
@@ -136,21 +149,6 @@
             ],
             "date_published": "2023-11-04T12:37:46+01:00",
             "date_modified": "2024-04-04T12:26:57+02:00"
-        },
-        {
-            "id": "https://hubfufu.github.io/pages/voyages/",
-            "url": "https://hubfufu.github.io/pages/voyages/",
-            "title": "Voyages",
-            "summary": "Une sélection tout à fait subjective de mes photos glanées ici&hellip;",
-            "content_html": "<p class=\"align-center\">Une sélection tout à fait subjective de mes photos glanées ici ou là lors de mes pérégrinations autour du monde.</p>",
-            "image": "https://hubfufu.github.io/pages/media/posts/8/voyages-640-480.jpg",
-            "author": {
-                "name": "FuFu"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-11-04T12:33:17+01:00",
-            "date_modified": "2024-04-29T10:47:44+02:00"
         }
     ]
 }
