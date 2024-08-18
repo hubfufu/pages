@@ -36,7 +36,7 @@
             "tags": [
             ],
             "date_published": "2024-05-20T11:31:57+02:00",
-            "date_modified": "2024-05-20T16:33:11+02:00"
+            "date_modified": "2024-08-15T18:25:03+02:00"
         },
         {
             "id": "https://hubfufu.github.io/pages/portaits-8/",
@@ -107,15 +107,14 @@
             "url": "https://hubfufu.github.io/pages/about-me/",
             "title": "A propos",
             "summary": "Je s'appelle FuFu 🐰 Je suis une des oeuvres monumentales&hellip;",
-            "content_html": "<p class=\"align-center\">Je s'appelle FuFu 🐰</p>\n<p class=\"align-center\">Je suis une des oeuvres monumentales du street artiste <em><a href=\"https://www.bordaloii.com/\"  class=\"extlink extlink-icon-1 \"  >Bordalo Segundo</a></em> et vous pouvez me trouver dans un coin de rue (au sens propre) d'une célèbre ville européenne...</p>\n<p> </p>\n<div class=\"footer__bottom\">\n<div class=\"footer__copyright align-center\">© 2024 Powered by <a href=\"https://getpublii.com/\"  class=\"extlink extlink-icon-1 \"  >Publii</a> Static CMS and hosted in the <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">EU 🇪🇺</span></div>\n</div>\n<p> </p>\n<p> </p>",
-            "image": "https://hubfufu.github.io/pages/media/posts/19/lapin3-2.jpg",
+            "content_html": "<figure class=\"post__image post__image--center\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://hubfufu.github.io/pages/media/posts/19/lapin3-2.jpg\" alt=\"\" width=\"297\" height=\"518\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://hubfufu.github.io/pages/media/posts/19/responsive/lapin3-2-xs.jpg 300w ,https://hubfufu.github.io/pages/media/posts/19/responsive/lapin3-2-sm.jpg 480w ,https://hubfufu.github.io/pages/media/posts/19/responsive/lapin3-2-md.jpg 768w ,https://hubfufu.github.io/pages/media/posts/19/responsive/lapin3-2-lg.jpg 1024w\"></figure>\n<p class=\"align-center\">Je s'appelle FuFu 🐰</p>\n<p class=\"align-center\">Je suis une des oeuvres monumentales du street artiste <em><a href=\"https://www.bordaloii.com/\"  class=\"extlink extlink-icon-1 \"  >Bordalo Segundo</a></em> et vous pouvez me trouver dans un coin de rue (au sens propre) d'une célèbre ville européenne...</p>\n<p class=\"align-center\"> </p>\n<div class=\"footer__bottom align-center\">\n<div class=\"footer__copyright align-center\">© 2024 Powered by <a href=\"https://getpublii.com/\"  class=\"extlink extlink-icon-1 \"  >Publii</a> Static CMS and hosted in the <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">EU 🇪🇺</span></div>\n</div>\n<p class=\"align-center\"> </p>\n<p> </p>",
             "author": {
                 "name": "FuFu"
             },
             "tags": [
             ],
             "date_published": "2023-11-09T19:52:52+01:00",
-            "date_modified": "2024-06-28T13:35:21+02:00"
+            "date_modified": "2024-08-18T11:12:04+02:00"
         },
         {
             "id": "https://hubfufu.github.io/pages/portaits-4/",
