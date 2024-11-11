@@ -3,463 +3,59 @@
     <title>FuFu</title>
     <link href="https://hubfufu.github.io/pages/feed.xml" rel="self" />
     <link href="https://hubfufu.github.io/pages" />
-    <updated>2024-08-18T11:12:04+02:00</updated>
+    <updated>2024-08-18T11:17:16+02:00</updated>
     <author>
         <name>FuFu</name>
     </author>
     <id>https://hubfufu.github.io/pages</id>
 
     <entry>
-        <title>Venise</title>
+        <title>Voyages</title>
         <author>
             <name>FuFu</name>
         </author>
-        <link href="https://hubfufu.github.io/pages/portaits-10/"/>
-        <id>https://hubfufu.github.io/pages/portaits-10/</id>
+        <link href="https://hubfufu.github.io/pages/voyages/"/>
+        <id>https://hubfufu.github.io/pages/voyages/</id>
+        <media:content url="https://hubfufu.github.io/pages/media/posts/8/voyages-640-480.jpg" medium="image" />
             <category term="Voyages"/>
-            <category term="Paysages"/>
 
-        <updated>2024-05-30T18:37:19+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <p class="align-center"> </p>
-<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Ajouter des images" data-columns="5">
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/27/gallery/collage_burano1.png" data-size="800x800"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/27/gallery/collage_burano1-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/27/gallery/collage_burano2.png" data-size="800x800"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/27/gallery/collage_burano2-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/27/gallery/collage_burano3.png" data-size="800x800"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/27/gallery/collage_burano3-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/27/gallery/collage_burano4.png" data-size="800x800"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/27/gallery/collage_burano4-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/27/gallery/collage_burano5.png" data-size="800x800"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/27/gallery/collage_burano5-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/27/gallery/collage_gondole1.png" data-size="800x800"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/27/gallery/collage_gondole1-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/27/gallery/collage_gondole2.png" data-size="800x800"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/27/gallery/collage_gondole2-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/27/gallery/IMG_0264.jpg" data-size="5135x2889"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/27/gallery/IMG_0264-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/27/gallery/IMG_0319.jpg" data-size="3456x5184"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/27/gallery/IMG_0319-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/27/gallery/IMG_0379.jpg" data-size="3456x5184"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/27/gallery/IMG_0379-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Art urbain</title>
-        <author>
-            <name>FuFu</name>
-        </author>
-        <link href="https://hubfufu.github.io/pages/portaits-9/"/>
-        <id>https://hubfufu.github.io/pages/portaits-9/</id>
-
-        <updated>2024-05-20T11:31:57+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Ajouter des images" data-columns="3">
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0043.jpg" data-size="1516x2274"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0043-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0078.jpg" data-size="1545x2274"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0078-thumbnail.jpg" alt="" width="768" height="1130"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0083.jpg" data-size="5184x2916"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0083-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0098.jpg" data-size="2274x1504"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0098-thumbnail.jpg" alt="" width="768" height="508"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0102.jpg" data-size="2274x1516"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0102-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0107.jpg" data-size="1516x2274"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0107-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0108.jpg" data-size="1666x2274"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0108-thumbnail.jpg" alt="" width="768" height="1048"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0115.jpg" data-size="2274x1516"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0115-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0119.jpg" data-size="2274x1279"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0119-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0123.jpg" data-size="2274x1489"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0123-thumbnail.jpg" alt="" width="768" height="503"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0131.jpg" data-size="2274x1516"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0131-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0137.jpg" data-size="2274x1508"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/26/gallery/IMG_0137-thumbnail.jpg" alt="" width="768" height="509"></a></figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Myanmar</title>
-        <author>
-            <name>FuFu</name>
-        </author>
-        <link href="https://hubfufu.github.io/pages/portaits-8/"/>
-        <id>https://hubfufu.github.io/pages/portaits-8/</id>
-            <category term="Voyages"/>
-            <category term="Paysages"/>
-
-        <updated>2024-04-22T14:19:43+02:00</updated>
+        <updated>2023-11-04T12:33:17+01:00</updated>
             <summary>
                 <![CDATA[
-                    <figure class="post__image post__image--center"><img loading="lazy"  src="https://hubfufu.github.io/pages/media/posts/24/carte-BIRM.jpg" alt="" width="913" height="838" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://hubfufu.github.io/pages/media/posts/24/responsive/carte-BIRM-xs.jpg 300w ,https://hubfufu.github.io/pages/media/posts/24/responsive/carte-BIRM-sm.jpg 480w ,https://hubfufu.github.io/pages/media/posts/24/responsive/carte-BIRM-md.jpg 768w ,https://hubfufu.github.io/pages/media/posts/24/responsive/carte-BIRM-lg.jpg 1024w"></figure>
-
+                        <img src="https://hubfufu.github.io/pages/media/posts/8/voyages-640-480.jpg" alt="" />
+                    Une sélection tout à fait subjective de mes photos glanées&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://hubfufu.github.io/pages/media/posts/24/carte-BIRM.jpg" alt="" width="913" height="838" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://hubfufu.github.io/pages/media/posts/24/responsive/carte-BIRM-xs.jpg 300w ,https://hubfufu.github.io/pages/media/posts/24/responsive/carte-BIRM-sm.jpg 480w ,https://hubfufu.github.io/pages/media/posts/24/responsive/carte-BIRM-md.jpg 768w ,https://hubfufu.github.io/pages/media/posts/24/responsive/carte-BIRM-lg.jpg 1024w"></figure>
-
-<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Ajouter des images" data-columns="5">
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/2-Mandalay-Amarapura-Ava-0346-2.jpg" data-size="4766x2681"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/2-Mandalay-Amarapura-Ava-0346-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/2-Mandalay-Amarapura-Ava-0368.jpg" data-size="5184x2916"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/2-Mandalay-Amarapura-Ava-0368-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/2-Mandalay-Amarapura-Ava-0399-2-2.jpg" data-size="4800x2700"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/2-Mandalay-Amarapura-Ava-0399-2-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/2-Mandalay-Amarapura-Ava-0403-2-2.jpg" data-size="4800x2700"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/2-Mandalay-Amarapura-Ava-0403-2-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/2-Mandalay-Amarapura-Ava-0407-2-2.jpg" data-size="4800x2700"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/2-Mandalay-Amarapura-Ava-0407-2-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/4-Bagan-0295-2-2.jpg" data-size="4800x2700"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/4-Bagan-0295-2-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/4-Bagan-0301-2.jpg" data-size="5101x3401"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/4-Bagan-0301-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/4-Bagan-0464-2.jpg" data-size="5000x3333"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/4-Bagan-0464-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/4-Bagan-0467-2.jpg" data-size="5028x3352"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/4-Bagan-0467-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/4-Bagan-0472-2.jpg" data-size="4800x2700"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/4-Bagan-0472-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/7-Lac-Inle-0124-2-2.jpg" data-size="4800x2700"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/7-Lac-Inle-0124-2-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/7-Lac-Inle-0132.jpg" data-size="4939x2778"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/7-Lac-Inle-0132-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/7-Lac-Inle-0133-2.jpg" data-size="5072x2853"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/7-Lac-Inle-0133-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/7-Lac-Inle-0135-2-2.jpg" data-size="4800x2700"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/7-Lac-Inle-0135-2-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/7-Lac-Inle-0136-2.jpg" data-size="3694x2078"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/7-Lac-Inle-0136-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/7-Lac-Inle-0139-2.jpg" data-size="5078x2856"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/7-Lac-Inle-0139-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/7-Lac-Inle-0160-2.jpg" data-size="5078x2856"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/7-Lac-Inle-0160-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/7-Lac-Inle-0180-2.jpg" data-size="4946x3298"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/7-Lac-Inle-0180-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/8-Lac-Inle-Inthas-0096-2-2.jpg" data-size="4750x2672"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/8-Lac-Inle-Inthas-0096-2-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/9-Lac-Inle-In-Dein-0006-2.jpg" data-size="3513x1976"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/9-Lac-Inle-In-Dein-0006-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/9-Lac-Inle-In-Dein-0012-2-2.jpg" data-size="4800x2700"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/9-Lac-Inle-In-Dein-0012-2-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/9-Lac-Inle-In-Dein-0014-2.jpg" data-size="5184x3456"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/9-Lac-Inle-In-Dein-0014-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/9-Lac-Inle-In-Dein-0016-2.jpg" data-size="5055x3369"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/9-Lac-Inle-In-Dein-0016-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/10-Lac-Inle-Alung-Sitthou-0021-2.jpg" data-size="5184x3456"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/10-Lac-Inle-Alung-Sitthou-0021-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/10-Lac-Inle-Alung-Sitthou-0025-2.jpg" data-size="5184x3456"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/10-Lac-Inle-Alung-Sitthou-0025-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/24/gallery/10-Lac-Inle-Alung-Sitthou-0031-2.jpg" data-size="4608x3456"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/24/gallery/10-Lac-Inle-Alung-Sitthou-0031-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-</div></div>
-<p> </p>
+                    <p><img src="https://hubfufu.github.io/pages/media/posts/8/voyages-640-480.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="align-center">Une sélection tout à fait subjective de mes photos glanées ici ou là lors de mes pérégrinations autour du monde.</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Inde (Gujarat - Uttar Pradesh)</title>
+        <title>Tickets</title>
         <author>
             <name>FuFu</name>
         </author>
-        <link href="https://hubfufu.github.io/pages/portaits-7/"/>
-        <id>https://hubfufu.github.io/pages/portaits-7/</id>
-            <category term="Voyages"/>
-            <category term="Portraits"/>
+        <link href="https://hubfufu.github.io/pages/tickets/"/>
+        <id>https://hubfufu.github.io/pages/tickets/</id>
+        <media:content url="https://hubfufu.github.io/pages/media/posts/7/Zappa-80-640-480.jpg" medium="image" />
+            <category term="Tickets"/>
 
-        <updated>2024-01-28T15:29:09+01:00</updated>
+        <updated>2023-11-04T12:28:17+01:00</updated>
             <summary>
                 <![CDATA[
-                    <figure class="post__image post__image--center"><img loading="lazy"  src="https://hubfufu.github.io/pages/media/posts/23/carte-TDI.jpg" alt="" width="796" height="794" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://hubfufu.github.io/pages/media/posts/23/responsive/carte-TDI-xs.jpg 300w ,https://hubfufu.github.io/pages/media/posts/23/responsive/carte-TDI-sm.jpg 480w ,https://hubfufu.github.io/pages/media/posts/23/responsive/carte-TDI-md.jpg 768w ,https://hubfufu.github.io/pages/media/posts/23/responsive/carte-TDI-lg.jpg 1024w"></figure>
-
+                        <img src="https://hubfufu.github.io/pages/media/posts/7/Zappa-80-640-480.jpg" alt="" />
+                    Ok, oldies tickets but goldies for me... Il fut un&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://hubfufu.github.io/pages/media/posts/23/carte-TDI.jpg" alt="" width="796" height="794" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://hubfufu.github.io/pages/media/posts/23/responsive/carte-TDI-xs.jpg 300w ,https://hubfufu.github.io/pages/media/posts/23/responsive/carte-TDI-sm.jpg 480w ,https://hubfufu.github.io/pages/media/posts/23/responsive/carte-TDI-md.jpg 768w ,https://hubfufu.github.io/pages/media/posts/23/responsive/carte-TDI-lg.jpg 1024w"></figure>
-
-<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Ajouter des images" data-columns="5">
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/09112017-IMG_0107.jpg" data-size="1600x1067"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/09112017-IMG_0107-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/10112017-IMG_0199.jpg" data-size="1600x1067"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/10112017-IMG_0199-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/10112017-IMG_0219.jpg" data-size="1600x1067"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/10112017-IMG_0219-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/10112017-IMG_0220.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/10112017-IMG_0220-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/10112017-IMG_0236.jpg" data-size="1600x1067"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/10112017-IMG_0236-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/10112017-IMG_0239.jpg" data-size="1200x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/10112017-IMG_0239-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/10112017-IMG_0264.jpg" data-size="1600x1067"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/10112017-IMG_0264-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/10112017-IMG_0269.jpg" data-size="1600x1067"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/10112017-IMG_0269-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/10112017-IMG_0271.jpg" data-size="1600x1067"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/10112017-IMG_0271-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/10112017-IMG_0277.jpg" data-size="1600x1067"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/10112017-IMG_0277-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/10112017-IMG_0306.jpg" data-size="1200x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/10112017-IMG_0306-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/12112017-IMG_0454.jpg" data-size="1200x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/12112017-IMG_0454-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/14112017-IMG_0627.jpg" data-size="1600x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/14112017-IMG_0627-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/15112017-IMG_0689.jpg" data-size="1600x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/15112017-IMG_0689-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/15112017-IMG_0708.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/15112017-IMG_0708-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/15112017-IMG_0712.jpg" data-size="1600x1200"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/15112017-IMG_0712-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/15112017-IMG_0748.jpg" data-size="1600x1200"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/15112017-IMG_0748-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/15112017-IMG_0752-2.jpg" data-size="1600x1067"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/15112017-IMG_0752-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/15112017-IMG_0790.jpg" data-size="1600x1200"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/15112017-IMG_0790-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/16112017-IMG_0812.jpg" data-size="1600x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/16112017-IMG_0812-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/16112017-IMG_0869.jpg" data-size="1419x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/16112017-IMG_0869-thumbnail.jpg" alt="" width="768" height="866"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/17112017-IMG_0984.jpg" data-size="1200x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/17112017-IMG_0984-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/17112017-IMG_0994.jpg" data-size="1600x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/17112017-IMG_0994-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/17112017-IMG_1038.jpg" data-size="1600x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/17112017-IMG_1038-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/22112017-IMG_1555.jpg" data-size="1200x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/22112017-IMG_1555-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/22112017-IMG_1561.jpg" data-size="1600x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/22112017-IMG_1561-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/22112017-IMG_1569.jpg" data-size="1600x1411"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/22112017-IMG_1569-thumbnail.jpg" alt="" width="768" height="677"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/23112017-IMG_1672.jpg" data-size="1600x1067"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/23112017-IMG_1672-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/23/gallery/23112017-IMG_1698.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/23/gallery/23112017-IMG_1698-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Inde (Tamil Nandu - Kérala)</title>
-        <author>
-            <name>FuFu</name>
-        </author>
-        <link href="https://hubfufu.github.io/pages/portaits-6/"/>
-        <id>https://hubfufu.github.io/pages/portaits-6/</id>
-            <category term="Voyages"/>
-            <category term="Portraits"/>
-
-        <updated>2024-01-27T17:25:57+01:00</updated>
-            <summary>
-                <![CDATA[
-                    <figure class="post__image post__image--center"><img loading="lazy"  src="https://hubfufu.github.io/pages/media/posts/22/carte-KER.avif" alt="" width="1200" height="1200"></figure>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://hubfufu.github.io/pages/media/posts/22/carte-KER.avif" alt="" width="1200" height="1200"></figure>
-
-<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Ajouter des images" data-columns="5">
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/22/gallery/1-CHENNAI-0014.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/22/gallery/1-CHENNAI-0014-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/22/gallery/5-TANJORE-0486.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/22/gallery/5-TANJORE-0486-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/22/gallery/5-TANJORE-0491.jpg" data-size="1600x1067"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/22/gallery/5-TANJORE-0491-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/22/gallery/5-TANJORE-0496.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/22/gallery/5-TANJORE-0496-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/22/gallery/5-TANJORE-0549.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/22/gallery/5-TANJORE-0549-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/22/gallery/6-TRICHY-0645.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/22/gallery/6-TRICHY-0645-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/22/gallery/6-TRICHY-0646.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/22/gallery/6-TRICHY-0646-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/22/gallery/6-TRICHY-0670.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/22/gallery/6-TRICHY-0670-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/22/gallery/6-TRICHY-0671.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/22/gallery/6-TRICHY-0671-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/22/gallery/6-TRICHY-0738.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/22/gallery/6-TRICHY-0738-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/22/gallery/6-TRICHY-0751.jpg" data-size="1200x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/22/gallery/6-TRICHY-0751-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/22/gallery/9-COCHIN-1207.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/22/gallery/9-COCHIN-1207-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/22/gallery/9-COCHIN-1241.jpg" data-size="1200x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/22/gallery/9-COCHIN-1241-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Nouvelle Zélande</title>
-        <author>
-            <name>FuFu</name>
-        </author>
-        <link href="https://hubfufu.github.io/pages/portaits-5/"/>
-        <id>https://hubfufu.github.io/pages/portaits-5/</id>
-            <category term="Voyages"/>
-            <category term="Paysages"/>
-
-        <updated>2023-11-12T19:14:24+01:00</updated>
-            <summary>
-                <![CDATA[
-                    <figure class="post__image post__image--center"><img loading="lazy"  src="https://hubfufu.github.io/pages/media/posts/20/carte-NZ-2.jpg" alt="" width="821" height="821" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://hubfufu.github.io/pages/media/posts/20/responsive/carte-NZ-2-xs.jpg 300w ,https://hubfufu.github.io/pages/media/posts/20/responsive/carte-NZ-2-sm.jpg 480w ,https://hubfufu.github.io/pages/media/posts/20/responsive/carte-NZ-2-md.jpg 768w ,https://hubfufu.github.io/pages/media/posts/20/responsive/carte-NZ-2-lg.jpg 1024w"></figure>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://hubfufu.github.io/pages/media/posts/20/carte-NZ-2.jpg" alt="" width="821" height="821" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://hubfufu.github.io/pages/media/posts/20/responsive/carte-NZ-2-xs.jpg 300w ,https://hubfufu.github.io/pages/media/posts/20/responsive/carte-NZ-2-sm.jpg 480w ,https://hubfufu.github.io/pages/media/posts/20/responsive/carte-NZ-2-md.jpg 768w ,https://hubfufu.github.io/pages/media/posts/20/responsive/carte-NZ-2-lg.jpg 1024w"></figure>
-
-<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Ajouter des images" data-columns="5">
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/20/gallery/6-Queenstown.0051.jpg" data-size="5184x3456"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/20/gallery/6-Queenstown.0051-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/20/gallery/Queenstown_Wakatipu.jpg" data-size="5157x3438"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/20/gallery/Queenstown_Wakatipu-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/20/gallery/T-1-0-2.jpg" data-size="1552x900"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/20/gallery/T-1-0-2-thumbnail.jpg" alt="" width="768" height="445"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/20/gallery/4-Te-Anau-0031.jpg" data-size="5156x3004"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/20/gallery/4-Te-Anau-0031-thumbnail.jpg" alt="" width="768" height="447"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/20/gallery/T-1-1-2.jpg" data-size="1600x843"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/20/gallery/T-1-1-2-thumbnail.jpg" alt="" width="768" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/20/gallery/T-1-2-2.jpg" data-size="1557x900"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/20/gallery/T-1-2-2-thumbnail.jpg" alt="" width="768" height="444"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/20/gallery/T-1-4-2.jpg" data-size="1377x900"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/20/gallery/T-1-4-2-thumbnail.jpg" alt="" width="768" height="502"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/20/gallery/T-1-5-2.jpg" data-size="1295x900"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/20/gallery/T-1-5-2-thumbnail.jpg" alt="" width="768" height="534"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/20/gallery/T-1-6-2.jpg" data-size="1350x900"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/20/gallery/T-1-6-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/20/gallery/Tongariro-Volcano_1.jpg" data-size="5184x3456"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/20/gallery/Tongariro-Volcano_1-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/20/gallery/Tongariro-Volcano_2.jpg" data-size="4813x3169"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/20/gallery/Tongariro-Volcano_2-thumbnail.jpg" alt="" width="768" height="506"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/20/gallery/Waimangu-Lake_Inferno-2.jpg" data-size="5184x3390"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/20/gallery/Waimangu-Lake_Inferno-2-thumbnail.jpg" alt="" width="768" height="502"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/20/gallery/Wai-O-Tapu_pool-2.jpg" data-size="5184x3456"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/20/gallery/Wai-O-Tapu_pool-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/20/gallery/1-Christchurch-Lake-Tekapo-0052-169.jpg" data-size="5184x2916"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/20/gallery/1-Christchurch-Lake-Tekapo-0052-169-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>A propos</title>
-        <author>
-            <name>FuFu</name>
-        </author>
-        <link href="https://hubfufu.github.io/pages/about-me/"/>
-        <id>https://hubfufu.github.io/pages/about-me/</id>
-
-        <updated>2023-11-09T19:52:52+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Je s'appelle FuFu 🐰 Je suis une des oeuvres monumentales&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://hubfufu.github.io/pages/media/posts/19/lapin3-2.jpg" alt="" width="297" height="518" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://hubfufu.github.io/pages/media/posts/19/responsive/lapin3-2-xs.jpg 300w ,https://hubfufu.github.io/pages/media/posts/19/responsive/lapin3-2-sm.jpg 480w ,https://hubfufu.github.io/pages/media/posts/19/responsive/lapin3-2-md.jpg 768w ,https://hubfufu.github.io/pages/media/posts/19/responsive/lapin3-2-lg.jpg 1024w"></figure>
-<p class="align-center">Je s'appelle FuFu 🐰</p>
-<p class="align-center">Je suis une des oeuvres monumentales du street artiste <em><a href="https://www.bordaloii.com/"  class="extlink extlink-icon-1 "  >Bordalo Segundo</a></em> et vous pouvez me trouver dans un coin de rue (au sens propre) d'une célèbre ville européenne...</p>
-<p class="align-center"> </p>
-<div class="footer__bottom align-center">
-<div class="footer__copyright align-center">© 2024 Powered by <a href="https://getpublii.com/"  class="extlink extlink-icon-1 "  >Publii</a> Static CMS and hosted in the <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">EU 🇪🇺</span></div>
-</div>
-<p class="align-center"> </p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Pérou</title>
-        <author>
-            <name>FuFu</name>
-        </author>
-        <link href="https://hubfufu.github.io/pages/portaits-4/"/>
-        <id>https://hubfufu.github.io/pages/portaits-4/</id>
-            <category term="Voyages"/>
-            <category term="Portraits"/>
-
-        <updated>2023-11-09T10:31:37+01:00</updated>
-            <summary>
-                <![CDATA[
-                    <figure class="post__image post__image--center"><img loading="lazy"  src="https://hubfufu.github.io/pages/media/posts/16/carte-PER.avif" alt="" width="1200" height="1200"></figure>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://hubfufu.github.io/pages/media/posts/16/carte-PER.avif" alt="" width="1200" height="1200"></figure>
-
-<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Ajouter des images" data-columns="5">
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/16/gallery/3-NAZCA-AREQUIPA-0301.jpg" data-size="1600x1200"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/16/gallery/3-NAZCA-AREQUIPA-0301-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/16/gallery/5-AREQUIPA-SIBAYO-0625.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/16/gallery/5-AREQUIPA-SIBAYO-0625-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/16/gallery/5-AREQUIPA-SIBAYO-0636.jpg" data-size="1600x1067"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/16/gallery/5-AREQUIPA-SIBAYO-0636-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/16/gallery/5-AREQUIPA-SIBAYO-0638.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/16/gallery/5-AREQUIPA-SIBAYO-0638-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/16/gallery/6-SIBAYO-CHIVAY-0732.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/16/gallery/6-SIBAYO-CHIVAY-0732-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/16/gallery/7-LAC_TITICACA-0873.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/16/gallery/7-LAC_TITICACA-0873-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/16/gallery/7-PUNO-2351.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/16/gallery/7-PUNO-2351-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/16/gallery/7-PUNO-ILES_OUROS.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/16/gallery/7-PUNO-ILES_OUROS-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/16/gallery/7-TITICACA-0860.jpg" data-size="1600x1067"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/16/gallery/7-TITICACA-0860-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/16/gallery/8-LAC_TITICACA-0998.jpg" data-size="1600x1067"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/16/gallery/8-LAC_TITICACA-0998-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/16/gallery/8-LAC_TITICACA-1070.jpg" data-size="1600x1067"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/16/gallery/8-LAC_TITICACA-1070-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/16/gallery/8-LAC_TITICACA-1083.jpg" data-size="1600x1067"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/16/gallery/8-LAC_TITICACA-1083-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/16/gallery/8-LAC_TITICACA-1086.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/16/gallery/8-LAC_TITICACA-1086-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/16/gallery/8-LAC_TITICACA-1170.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/16/gallery/8-LAC_TITICACA-1170-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/16/gallery/8-LAC_TITICACA-1177.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/16/gallery/8-LAC_TITICACA-1177-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/16/gallery/10-CUSCO-1257.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/16/gallery/10-CUSCO-1257-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/16/gallery/10-SACREE-MISMINAY-0033.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/16/gallery/10-SACREE-MISMINAY-0033-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/16/gallery/10-SACREE-MISMINAY-0088.jpg" data-size="1600x1067"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/16/gallery/10-SACREE-MISMINAY-0088-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/16/gallery/10-SACREE-MISMINAY-0150.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/16/gallery/10-SACREE-MISMINAY-0150-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/16/gallery/13-CUSCO-LIMA-1241.jpg" data-size="1067x1600"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/16/gallery/13-CUSCO-LIMA-1241-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Inde (Rajasthan)</title>
-        <author>
-            <name>FuFu</name>
-        </author>
-        <link href="https://hubfufu.github.io/pages/portaits-3/"/>
-        <id>https://hubfufu.github.io/pages/portaits-3/</id>
-            <category term="Voyages"/>
-            <category term="Portraits"/>
-
-        <updated>2023-11-07T14:41:47+01:00</updated>
-            <summary>
-                <![CDATA[
-                    <figure class="post__image post__image--center"><br><img loading="lazy"  src="https://hubfufu.github.io/pages/media/posts/12/carte-RAJA.jpg" alt="" width="763" height="765" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://hubfufu.github.io/pages/media/posts/12/responsive/carte-RAJA-xs.jpg 300w ,https://hubfufu.github.io/pages/media/posts/12/responsive/carte-RAJA-sm.jpg 480w ,https://hubfufu.github.io/pages/media/posts/12/responsive/carte-RAJA-md.jpg 768w ,https://hubfufu.github.io/pages/media/posts/12/responsive/carte-RAJA-lg.jpg 1024w"></figure>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image post__image--center"><br><img decoding="auto" loading="lazy"  src="https://hubfufu.github.io/pages/media/posts/12/carte-RAJA.jpg" alt="" width="763" height="765" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://hubfufu.github.io/pages/media/posts/12/responsive/carte-RAJA-xs.jpg 300w ,https://hubfufu.github.io/pages/media/posts/12/responsive/carte-RAJA-sm.jpg 480w ,https://hubfufu.github.io/pages/media/posts/12/responsive/carte-RAJA-md.jpg 768w ,https://hubfufu.github.io/pages/media/posts/12/responsive/carte-RAJA-lg.jpg 1024w"></figure>
-
-<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Ajouter des images" data-columns="5">
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/23122011-IMG_0391.jpg" data-size="3456x4912"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/23122011-IMG_0391-thumbnail.jpg" alt="" width="768" height="1092"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/23122011-IMG_0395.jpg" data-size="3274x4785"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/23122011-IMG_0395-thumbnail.jpg" alt="" width="768" height="1122"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/23122011-IMG_0408.jpg" data-size="3320x4756"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/23122011-IMG_0408-thumbnail.jpg" alt="" width="768" height="1100"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/23122011-IMG_0420.jpg" data-size="4886x3300"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/23122011-IMG_0420-thumbnail.jpg" alt="" width="768" height="519"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/24122011-IMG_0469.jpg" data-size="4549x3404"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/24122011-IMG_0469-thumbnail.jpg" alt="" width="768" height="575"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/24122011-IMG_0472.jpg" data-size="3359x5009"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/24122011-IMG_0472-thumbnail.jpg" alt="" width="768" height="1145"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/24122011-IMG_0499.jpg" data-size="3456x4970"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/24122011-IMG_0499-thumbnail.jpg" alt="" width="768" height="1104"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/24122011-IMG_0526.jpg" data-size="1314x1566"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/24122011-IMG_0526-thumbnail.jpg" alt="" width="768" height="915"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/24122011-IMG_0548.jpg" data-size="3378x4581"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/24122011-IMG_0548-thumbnail.jpg" alt="" width="768" height="1041"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0559.jpg" data-size="5184x3391"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0559-thumbnail.jpg" alt="" width="768" height="502"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0565.jpg" data-size="3456x5106"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0565-thumbnail.jpg" alt="" width="768" height="1135"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0572.jpg" data-size="3437x4056"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0572-thumbnail.jpg" alt="" width="768" height="907"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0574.jpg" data-size="3456x4445"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0574-thumbnail.jpg" alt="" width="768" height="988"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0579.jpg" data-size="2220x4717"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0579-thumbnail.jpg" alt="" width="768" height="1632"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0591.jpg" data-size="2288x2227"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0591-thumbnail.jpg" alt="" width="768" height="748"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0615.jpg" data-size="5184x3456"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0615-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0619.jpg" data-size="3456x5087"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0619-thumbnail.jpg" alt="" width="768" height="1130"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0634.jpg" data-size="5184x3456"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0634-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0637.jpg" data-size="3183x4639"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0637-thumbnail.jpg" alt="" width="768" height="1119"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0639.jpg" data-size="3417x4250"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/25122011-IMG_0639-thumbnail.jpg" alt="" width="768" height="956"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/26122011-IMG_0671.jpg" data-size="4147x3249"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/26122011-IMG_0671-thumbnail.jpg" alt="" width="768" height="602"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/26122011-IMG_0686.jpg" data-size="3456x4678"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/26122011-IMG_0686-thumbnail.jpg" alt="" width="768" height="1040"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/IMG_0567_resized.jpg" data-size="1191x1800"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/IMG_0567_resized-thumbnail.jpg" alt="" width="768" height="1161"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/26122011-IMG_0688.jpg" data-size="3144x4873"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/26122011-IMG_0688-thumbnail.jpg" alt="" width="768" height="1190"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/26122011-IMG_0698.jpg" data-size="3456x5184"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/26122011-IMG_0698-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/26122011-IMG_0700.jpg" data-size="4951x3456"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/26122011-IMG_0700-thumbnail.jpg" alt="" width="768" height="536"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/26122011-IMG_0706.jpg" data-size="4549x3456"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/26122011-IMG_0706-thumbnail.jpg" alt="" width="768" height="584"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/26122011-IMG_0708.jpg" data-size="3437x4639"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/26122011-IMG_0708-thumbnail.jpg" alt="" width="768" height="1037"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/27122011-IMG_0862.jpg" data-size="5132x3391"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/27122011-IMG_0862-thumbnail.jpg" alt="" width="768" height="507"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/27122011-IMG_0843.jpg" data-size="4925x3456"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/27122011-IMG_0843-thumbnail.jpg" alt="" width="768" height="539"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/29122011-IMG_0147.jpg" data-size="3267x4901"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/29122011-IMG_0147-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/31122011-IMG_0328.jpg" data-size="4199x3041"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/31122011-IMG_0328-thumbnail.jpg" alt="" width="768" height="556"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/31122011-IMG_0410.jpg" data-size="3456x4367"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/31122011-IMG_0410-thumbnail.jpg" alt="" width="768" height="970"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/12/gallery/TAJ_0380-IMG_4521.jpg" data-size="2821x3922"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/12/gallery/TAJ_0380-IMG_4521-thumbnail.jpg" alt="" width="768" height="1068"></a></figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Birmanie</title>
-        <author>
-            <name>FuFu</name>
-        </author>
-        <link href="https://hubfufu.github.io/pages/portaits-2/"/>
-        <id>https://hubfufu.github.io/pages/portaits-2/</id>
-            <category term="Voyages"/>
-            <category term="Portraits"/>
-
-        <updated>2023-11-06T15:57:21+01:00</updated>
-            <summary>
-                <![CDATA[
-                    <figure class="post__image post__image--center"><img loading="lazy"  src="https://hubfufu.github.io/pages/media/posts/11/carte-BIRM.jpg" alt="" width="913" height="838" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://hubfufu.github.io/pages/media/posts/11/responsive/carte-BIRM-xs.jpg 300w ,https://hubfufu.github.io/pages/media/posts/11/responsive/carte-BIRM-sm.jpg 480w ,https://hubfufu.github.io/pages/media/posts/11/responsive/carte-BIRM-md.jpg 768w ,https://hubfufu.github.io/pages/media/posts/11/responsive/carte-BIRM-lg.jpg 1024w"></figure>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://hubfufu.github.io/pages/media/posts/11/carte-BIRM.jpg" alt="" width="913" height="838" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://hubfufu.github.io/pages/media/posts/11/responsive/carte-BIRM-xs.jpg 300w ,https://hubfufu.github.io/pages/media/posts/11/responsive/carte-BIRM-sm.jpg 480w ,https://hubfufu.github.io/pages/media/posts/11/responsive/carte-BIRM-md.jpg 768w ,https://hubfufu.github.io/pages/media/posts/11/responsive/carte-BIRM-lg.jpg 1024w"></figure>
-
-<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Ajouter des images" data-columns="5">
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/1-Yangon-0154.jpg" data-size="3093x4639"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/1-Yangon-0154-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/1-Yangon-0139.jpg" data-size="4431x2954"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/1-Yangon-0139-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/1-Yangon-0173.jpg" data-size="3339x5009"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/1-Yangon-0173-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/2-Mandalay-Ava-0302.jpg" data-size="4935x3290"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/2-Mandalay-Ava-0302-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/1-Yangon-0170.jpg" data-size="3456x5184"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/1-Yangon-0170-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/2-Mandalay-Ava-0379.jpg" data-size="3158x4736"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/2-Mandalay-Ava-0379-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/2-Mandalay-Ava-0463.jpg" data-size="3456x3456"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/2-Mandalay-Ava-0463-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/2-Mandalay-Ava-0469.jpg" data-size="5018x3345"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/2-Mandalay-Ava-0469-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/3-Sagaing-Monywa-0223.jpg" data-size="3456x5184"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/3-Sagaing-Monywa-0223-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/2-Mandalay-Ava-0465.jpg" data-size="4686x3124"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/2-Mandalay-Ava-0465-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/2-Mandalay-Ava-0470.jpg" data-size="5184x3456"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/2-Mandalay-Ava-0470-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/3-Sagaing-Monywa-0235-2.jpg" data-size="3313x4970"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/3-Sagaing-Monywa-0235-2-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/3-Sagaing-Monywa-0236-2.jpg" data-size="3456x5184"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/3-Sagaing-Monywa-0236-2-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/3-Sagaing-Monywa-0246.jpg" data-size="3456x5184"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/3-Sagaing-Monywa-0246-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/3-Sagaing-Monywa-0248.jpg" data-size="3456x4608"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/3-Sagaing-Monywa-0248-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/3-Sagaing-Monywa-0253.jpg" data-size="3456x4608"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/3-Sagaing-Monywa-0253-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/3-Sagaing-Monywa-0268.jpg" data-size="3456x5184"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/3-Sagaing-Monywa-0268-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/3-Sagaing-Monywa-0270.jpg" data-size="3456x5184"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/3-Sagaing-Monywa-0270-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0328.jpg" data-size="3456x5184"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0328-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0337.jpg" data-size="3456x5184"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0337-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0339.jpg" data-size="3456x5184"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0339-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0343.jpg" data-size="3339x5009"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0343-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0340.jpg" data-size="3456x5184"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0340-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0344.jpg" data-size="3326x4989"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0344-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0379.jpg" data-size="3456x5184"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0379-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0346.jpg" data-size="3378x5067"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0346-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0412.jpg" data-size="5184x3456"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0412-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0423.jpg" data-size="5184x3456"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0423-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0413.jpg" data-size="3104x4655"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0413-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0430.jpg" data-size="5087x3391"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/4-Bagan-0430-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/6-Pindaya-Yasakyi-0027.jpg" data-size="3456x5184"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/6-Pindaya-Yasakyi-0027-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/6-Pindaya-Yasakyi-0036.jpg" data-size="3307x3307"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/6-Pindaya-Yasakyi-0036-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/6-Pindaya-Yasakyi-0038.jpg" data-size="3456x5184"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/6-Pindaya-Yasakyi-0038-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/6-Pindaya-Yasakyi-0042.jpg" data-size="3203x4805"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/6-Pindaya-Yasakyi-0042-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/6-Pindaya-Yasakyi-0062.jpg" data-size="1624x1624"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/6-Pindaya-Yasakyi-0062-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/7-Lac-Inle-0095.jpg" data-size="5184x3456"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/7-Lac-Inle-0095-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/7-Lac-Inle-0096.jpg" data-size="5184x3456"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/7-Lac-Inle-0096-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/10-Lac-Inle-0066.jpg" data-size="3456x5184"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/10-Lac-Inle-0066-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/7-Lac-Inle-0097.jpg" data-size="5077x3384"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/7-Lac-Inle-0097-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/7-Lac-Inle-0101.jpg" data-size="4608x3456"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/7-Lac-Inle-0101-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/7-Lac-Inle-0190.jpg" data-size="3112x4668"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/7-Lac-Inle-0190-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/7-Lac-Inle-0202.jpg" data-size="3269x4904"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/7-Lac-Inle-0202-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/9-Lac-Inle-In-Dein-0015.jpg" data-size="3361x5042"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/9-Lac-Inle-In-Dein-0015-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/9-Lac-Inle-In-Dein-0029.jpg" data-size="2880x3840"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/9-Lac-Inle-In-Dein-0029-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/9-Lac-Inle-In-Dein-0056.jpg" data-size="3456x5184"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/9-Lac-Inle-In-Dein-0056-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/10-Lac-Inle-0056.jpg" data-size="4476x2984"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/10-Lac-Inle-0056-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/6-Pindaya-Yasakyi-0047.jpg" data-size="3020x4530"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/6-Pindaya-Yasakyi-0047-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://hubfufu.github.io/pages/media/posts/11/gallery/10-Lac-Inle-0060.jpg" data-size="2837x4255"><img decoding="auto" loading="lazy" src="https://hubfufu.github.io/pages/media/posts/11/gallery/10-Lac-Inle-0060-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-</div></div>
+                    <p><img src="https://hubfufu.github.io/pages/media/posts/7/Zappa-80-640-480.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="align-center">Ok, oldies tickets but goldies for me...</p>
+<p class="align-center">Il fut un temps (bien avant internet, bien avant l'arrivée du smartphone, à l'époque du 33 tours et des billets en francs donc) ou l'on pouvait aller voir les artistes en chair et en os sur scène pour un ticket d'entrée à un prix tout à fait raisonnable.</p>
+<p class="align-center">J'ai fait partie de ces heureux bipèdes et vous trouverez ici un petit florilège des tickets de concerts auquels j'ai pu assister (enfin ceux que j'ai conservés).</p>
             ]]>
         </content>
     </entry>
