@@ -20,7 +20,7 @@
             <category term="Voyages"/>
 
         <updated>2023-11-04T12:33:17+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://hubfufu.github.io/pages/media/posts/8/voyages-640-480.jpg" alt="" />
                     Une sélection tout à fait subjective de mes photos glanées&hellip;
@@ -46,7 +46,7 @@
             <category term="Tickets"/>
 
         <updated>2023-11-04T12:28:17+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://hubfufu.github.io/pages/media/posts/7/Zappa-80-640-480.jpg" alt="" />
                     Ok, oldies tickets but goldies for me... Il fut un&hellip;
